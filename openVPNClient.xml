@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/petersm1/openvpn_client_x64/master/openvpn_client_x64.plg</PluginURL>
+<PluginAuthor>peter_sm</PluginAuthor>
+<Beta>False</Beta>
+<Category>Network:Other Tools:System</Category>
+<Name>OpenVPN Client</Name>
+<Description>
+OpenVPN Client
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=35435.0</Support>
+<Icon>https://lh5.ggpht.com/bvSrAN5aY53Ewcw9SKU4ovo6qI7mu4nlR9GiAFqsWSG0FCzNr2BL4vtRAk0nLMB2qAg=w300</Icon>
+</Containers>
