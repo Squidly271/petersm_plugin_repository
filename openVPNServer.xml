@@ -7,7 +7,11 @@
 <Category>Network:Other Tools:System</Category>
 <Name>OpenVPN Server</Name>
 <Description>
-OpenVPN Server
+What is OpenVPN?
+OpenVPN is an open-source software application that implements virtual private network (VPN) techniques for creating 
+secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. 
+It uses a custom security protocol that utilizes SSL/TLS for key exchange. 
+It is capable of traversing network address translators (NATs) and firewalls
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=35435.0</Support>
 <Icon>https://lh5.ggpht.com/bvSrAN5aY53Ewcw9SKU4ovo6qI7mu4nlR9GiAFqsWSG0FCzNr2BL4vtRAk0nLMB2qAg=w300</Icon>
