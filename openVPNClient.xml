@@ -11,7 +11,7 @@ OpenVPN Client
 </Description>
 <Support>https://forums.lime-technology.com/topic/33783-openvpn-server-client-for-unraid-62-61-are-still-supported/</Support>
 <Icon>https://lh5.ggpht.com/bvSrAN5aY53Ewcw9SKU4ovo6qI7mu4nlR9GiAFqsWSG0FCzNr2BL4vtRAk0nLMB2qAg=w300</Icon>
-<DonateText>If you find any of my work useful, please consider a donation to get me some beers</DonateText>
+<DonateText>If you find any of my work useful, please consider a donation</DonateText>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=TXFVJQVYZRBBU&amp;lc=SE&amp;item_name=OpenVPN_Client_Plugin&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted</DonateLink>
 </Containers>
