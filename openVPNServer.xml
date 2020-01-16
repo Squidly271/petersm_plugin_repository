@@ -4,7 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/petersm1/openvpnserver/master/openvpn_server_x64.plg</PluginURL>
 <PluginAuthor>peter_sm</PluginAuthor>
 <Beta>False</Beta>
-<Category>Network:Other Tools:System</Category>
+<Category>Network:VPN Tools:System</Category>
 <Date>2018-04-26</Date>
 <Name>OpenVPN Server</Name>
 <Description>
